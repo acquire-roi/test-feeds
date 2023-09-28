@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?> <source>
 <job>
+    <title><![CDATA[JOB 6 NEWREF6]]></title>
+    <description><![CDATA[New job description Thoud 6]]></description>
+    <company><![CDATA[CompanyThoud - X 6]]></company>
+    <ref_no><![CDATA[NEWREF6]]></ref_no>
+    <city><![CDATA[Washington]]></city>
+    <state><![CDATA[Maryland]]></state>
+    <country_code><![CDATA[US]]></country_code>
+    <postal_code><![CDATA[10001]]></postal_code>
+    <apply_url><![CDATA[https://www.google.com]]></apply_url>
+    <schedule><![CDATA[part_time]]></schedule>
+    <pay_currency><![CDATA[USD]]></pay_currency>
+    <cf1><![CDATA[value1]]></cf1>
+    <cf2><![CDATA[value2]]></cf2>
+    <cf3><![CDATA[value3]]></cf3>
+</job>
+<job>
     <title><![CDATA[JOB 5 NEWREF5]]></title>
     <description><![CDATA[New job description Thoud 5]]></description>
     <company><![CDATA[CompanyThoud - X 5]]></company>
