@@ -11,6 +11,8 @@
     <apply_url><![CDATA[https://www.google.com]]></apply_url>
     <schedule><![CDATA[part_time]]></schedule>
     <pay_currency><![CDATA[USD]]></pay_currency>
+    <pay_min><![CDATA[50,000.00]]></pay_min>
+    <pay_max><![CDATA[60,000.00]]></pay_min>
     <cf1><![CDATA[value1]]></cf1>
     <cf2><![CDATA[value2]]></cf2>
     <cf3><![CDATA[value3]]></cf3>
