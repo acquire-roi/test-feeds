@@ -12,7 +12,7 @@
     <schedule><![CDATA[part_time]]></schedule>
     <pay_currency><![CDATA[USD]]></pay_currency>
     <pay_min><![CDATA[17.5]]></pay_min>
-    <pay_max><![CDATA[9]]></pay_min>
+    <pay_max><![CDATA[19]]></pay_min>
     <cf1><![CDATA[value1]]></cf1>
     <cf2><![CDATA[value2]]></cf2>
     <cf3><![CDATA[value3]]></cf3>
