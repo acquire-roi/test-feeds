@@ -11,6 +11,7 @@
     <apply_url><![CDATA[https://www.google.com]]></apply_url>
     <schedule><![CDATA[full_time]]></schedule>
     <pay_currency><![CDATA[USD]]></pay_currency>
+    <test_1><![CDATA[test1]]></pay_currency>
 </job>
 <job>
     <title><![CDATA[JOB 2]]></title>
