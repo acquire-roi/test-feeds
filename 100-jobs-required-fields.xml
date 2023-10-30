@@ -1,19 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?> <source>
 <job>
-    <title><![CDATA[JOB 1]]></title>
-    <description><![CDATA[This is job 1]]></description>
-    <company><![CDATA[Company 1]]></company>
-    <ref_no><![CDATA[REFJOB1]]></ref_no>
-    <city><![CDATA[Miami]]></city>
-    <state><![CDATA[CA]]></state>
-    <country_code><![CDATA[US]]></country_code>
-    <postal_code><![CDATA[10001]]></postal_code>
-    <apply_url><![CDATA[https://www.google.com]]></apply_url>
-    <schedule><![CDATA[full_time]]></schedule>
-    <pay_currency><![CDATA[USD]]></pay_currency>
-    <test_1><![CDATA[test1]]></pay_currency>
-</job>
-<job>
     <title><![CDATA[JOB 2]]></title>
     <description><![CDATA[This is job 2]]></description>
     <company><![CDATA[Company 2]]></company>
