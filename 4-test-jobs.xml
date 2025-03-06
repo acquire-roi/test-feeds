@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<source>
+    <job>
+        <title><![CDATA[Mailman]]></title>
+        <description><![CDATA[Are you a Mailman? Deliver letters and packages efficiently while interacting with the community. Ensure timely deliveries and provide excellent service.]]></description>
+        <company><![CDATA[Fidelia]]></company>
+        <ref_no><![CDATA[REF10793]]></ref_no>
+        <city><![CDATA[Oregon]]></city>
+        <state><![CDATA[CA]]></state>
+        <postal_code><![CDATA[94102]]></postal_code>
+        <country_code><![CDATA[US]]></country_code> 
+        <apply_url><![CDATA[https://starfleet.org/careers.es]]></apply_url>
+        <schedule><![CDATA[full_time]]></schedule>
+        <pay_currency><![CDATA[USD]]></pay_currency>
+        <testing_customone><![CDATA[QA_Custom_one]]></testing_customone>
+        <testing_customtwo><![CDATA[QA_Custom_two]]></testing_customtwo>
+        <testing_customthree><![CDATA[QA_Custom_three]]></testing_customthree>
+    </job>
+    <job>
+        <title><![CDATA[Filmmaker]]></title>
+        <description><![CDATA[Are you a filmmaker? Create compelling stories through visual storytelling. Plan, shoot, and edit films to captivate audiences and bring scripts to life.]]></description>
+        <company><![CDATA[Fidelia]]></company>
+        <ref_no><![CDATA[REF4231]]></ref_no>
+        <city><![CDATA[Oregon]]></city>
+        <state><![CDATA[CA]]></state>
+        <postal_code><![CDATA[94102]]></postal_code>
+        <country_code><![CDATA[US]]></country_code> 
+        <apply_url><![CDATA[https://starfleet.org/careers.es]]></apply_url>
+        <schedule><![CDATA[full_time]]></schedule>
+        <pay_currency><![CDATA[USD]]></pay_currency>
+    </job>
+    <job>
+        <title><![CDATA[Truck Driver]]></title>
+        <description><![CDATA[Are you a truck driver? Transport goods safely across long distances, ensuring timely deliveries. Operate heavy vehicles while adhering to road safety regulations.]]></description>
+        <company><![CDATA[Fidelia]]></company>
+        <ref_no><![CDATA[REF432442]]></ref_no>
+        <city><![CDATA[Oregon]]></city>
+        <state><![CDATA[CA]]></state>
+        <postal_code><![CDATA[94102]]></postal_code>
+        <country_code><![CDATA[US]]></country_code> 
+        <apply_url><![CDATA[https://starfleet.org/careers.es]]></apply_url>
+        <schedule><![CDATA[full_time]]></schedule>
+        <pay_currency><![CDATA[USD]]></pay_currency>
+    </job>
+    <job>
+        <title><![CDATA[QA Driver]]></title>
+        <description><![CDATA[Are you a QA specialist? Ensure software quality through rigorous testing. Identify bugs, improve system performance, and guarantee seamless user experiences.]]></description>
+        <company><![CDATA[Fidelia]]></company>
+        <ref_no><![CDATA[REF10043]]></ref_no>
+        <city><![CDATA[Oregon]]></city>
+        <state><![CDATA[CA]]></state>
+        <postal_code><![CDATA[94102]]></postal_code>
+        <country_code><![CDATA[US]]></country_code> 
+        <apply_url><![CDATA[https://starfleet.org/careers.es]]></apply_url>
+        <schedule><![CDATA[full_time]]></schedule>
+        <pay_currency><![CDATA[USD]]></pay_currency>
+    </job>
+</source>
